@@ -13,8 +13,7 @@ I'm from Brazil, I am in training to become a Full Stack developer.
 
 ### GUI-Frameworks
 
-•TKinter🎨
-•Flet⚡
+•TKinter🎨 | Flet⚡
 
 
 ### Databases 
@@ -24,8 +23,7 @@ I'm from Brazil, I am in training to become a Full Stack developer.
 
 ### Tools 
 
-•VScode💻
-•Git/GitHub🐙
+•VScode💻 | Git/GitHub🐙
 
 
 
