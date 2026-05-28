@@ -11,18 +11,18 @@ I'm from Brazil, I am in training to become a Full Stack developer.
 • Python🐍
 
 
-** GUI-Frameworks **
+### GUI-Frameworks
 
 •TKinter🎨
 •Flet⚡
 
 
-** Databases **
+### Databases 
 
 •SQlite🗂️
 
 
-** Tools **
+### Tools 
 
 •VScode💻
 •Git/GitHub🐙
