@@ -6,7 +6,7 @@ I'm from Brazil, I am in training to become a Full Stack developer.
 
 ## ⚒️ Technologies e tools
 
-** Languages **
+### Languages 
 
 • Python🐍
 
