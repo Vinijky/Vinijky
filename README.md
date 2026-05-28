@@ -35,8 +35,6 @@ I speak Portuguese🇧🇷(native), English🇺🇸 and Spanish🇪🇸(basic)
 
 ## 🎯 Area of operation 
 
-•Web development 🌐
-•Backend development ⚙️
-•Frontend development 🎨
+•Web development 🌐 | Backend development ⚙️ | Frontend development 🎨
 
 
