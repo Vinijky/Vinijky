@@ -8,22 +8,22 @@ I'm from Brazil, I am in training to become a Full Stack developer.
 
 ### Languages 
 
-• Python🐍
+Python🐍
 
 
 ### GUI-Frameworks
 
-•TKinter🎨 | Flet⚡
+TKinter🎨 | Flet⚡
 
 
 ### Databases 
 
-•SQlite🗂️
+SQlite🗂️
 
 
 ### Tools 
 
-•VScode💻 | Git/GitHub🐙
+VScode💻 | Git/GitHub🐙
 
 
 
@@ -35,6 +35,6 @@ I speak Portuguese🇧🇷(native), English🇺🇸 and Spanish🇪🇸(basic)
 
 ## 🎯 Area of operation 
 
-•Web development 🌐 | Backend development ⚙️ | Frontend development 🎨
+Web development 🌐 | Backend development ⚙️ | Frontend development 🎨
 
 
