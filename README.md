@@ -4,7 +4,7 @@ I'm from Brazil, I am in training to become a Full Stack developer.
 
 
 
-### ⚒️ Technologies e tools
+## ⚒️ Technologies e tools
 
 ** Languages **
 
@@ -29,7 +29,7 @@ I'm from Brazil, I am in training to become a Full Stack developer.
 
 
 
-### 🌐 language
+## 🌐 language
 
 I speak Portuguese🇧🇷(native), English🇺🇸 and Spanish🇪🇸(basic) 
 
