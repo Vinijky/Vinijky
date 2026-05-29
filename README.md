@@ -13,7 +13,7 @@ Python🐍
 
 ### GUI-Frameworks
 
-TKinter🎨 | Flet⚡
+Flet⚡
 
 
 ### Databases 
