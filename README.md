@@ -18,7 +18,7 @@ Flet⚡
 
 ### Databases 
 
-SQlite🗂️
+SQlite🗂️ | PostgreSQL🐘
 
 
 ### Tools 
